@@ -1,0 +1,141 @@
+@media (max-width:1158px){
+
+    
+    .inner_our_services ul li {
+        font-size: 17px;
+    }
+
+
+}
+
+@media(max-width:992px){
+    .header_area_text p {
+        font-size: 17px;
+       margin-top:0px;
+    }
+
+    .hire_me_button {
+        width: 120px;
+        font-size: 16px;
+        border-radius: 4px;
+      
+    }
+
+    .about_button{
+        width: 120px;
+        font-size: 16px;
+        border-radius: 4px;
+    }
+    .custom_main_section {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .header_area_text {
+        margin-bottom: 34px;
+    }
+    .all_main_header_text h1 {
+        font-size: 43px;
+    }
+    .about_me_details h1 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    /* Expertise Section  */
+
+
+    .expertise_section {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+
+    .all_main_header_text h1 {
+        font-size: 31px;
+        font-weight: bold;
+    }
+    .all_main_header_text p {
+        font-size: 16px;
+    }
+    .expertise_section.custom_progress {
+        margin-top: 0 !important;
+    }
+    .expertise_section h2{ font-size: calc(1rem + .9vw);}
+    .main_progress_content3::before {
+        top: 3px;
+    }
+    .main_progress_content2::before {
+        top: 3px;
+    }
+    .custom_expertise_img .img-fluid {
+        margin-top: 0px;
+    }
+    .services_section {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .inner_our_services {
+        margin-top: 9px;
+    }
+    .inner_our_services ul li {
+        font-size: 17px;
+    }
+    .hire_me_section h1 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .hire_me_section p {
+        font-size: 16px;
+    }
+    .hire_me_section h3 {
+        font-size: 22px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .hire_me_section {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+
+    .contact_img .custom_cycle_img {
+        display: none;
+       
+    }
+    .contact_us_section {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    .inner_contact {
+        margin-top: 10px;
+    }
+    .child_feature {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .inner_our_services ul li {
+        font-size: 15px;
+    }
+    .inner_our_services ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .inner_our_services ul li {
+
+    }
+        font-size: 18px;
+    .inner_our_services ul li {
+        font-size: 23px;
+        font-weight: 300;
+        text-transform: capitalize;
+        /* padding-left: 5px; */
+    }
+
+    .inner_our_services span {
+        margin-right: 0px;
+    }
+
+}
